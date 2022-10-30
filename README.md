@@ -5,10 +5,11 @@
 - 🌍 I'm based in Antalya, TURKEY.
 - 🌱 I’m currently learning Redux and React.
 - ⚡ Fun fact: I love cooking very much.
-
+- 😻 Check out the my portfolio: <a href="[https://www.linkedin.com/in/guncelaldemir/](https://635e66e4a660823a36144dd2--superlative-frangollo-7c3171.netlify.app/)" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="32" height="32" /></a>
 
 ### Connect with me:
-<p align="left"> <a href="https://github.com/guncel-aldemir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guncelaldemir/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/guncel-aldemir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guncelaldemir/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 
 ### Skills
