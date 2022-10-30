@@ -37,6 +37,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guncel-aldemir&show_icons=true&locale=en&layout=compact" alt="guncel-aldemir" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guncel-aldemir&show_icons=true&locale=en" alt="guncel-aldemir" /></p>
 <!--
 **guncel-aldemir/guncel-aldemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
