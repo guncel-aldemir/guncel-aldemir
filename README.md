@@ -3,7 +3,7 @@
 ## I am a Front-End Developer who changed his life for his dreams.
 
 - 🌍 I'm based in Antalya, TURKEY.
-- 🌱 I’m currently learning Redux and React.
+- 🌱 I’m currently learning  React and Swift.
 - ⚡ Fun fact: I love cooking very much.
 - 😻 Check out the my portfolio: <a href="https://635e66e4a660823a36144dd2--superlative-frangollo-7c3171.netlify.app/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="32" height="32" /></a>
 
@@ -29,7 +29,8 @@
 <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/material-ui.png" alt="mui" width="40" height="40"/> </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
+
+ </p>
 
 
 ### Badges
