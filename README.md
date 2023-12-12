@@ -1,11 +1,11 @@
 ### Hi there 👋 My name is Güncel ALDEMİR...
 
-## I am a Front-End Developer who changed his life for his dreams.
+## I am a IOS Developer who changed his life for his dreams.
 
 - 🌍 I'm based in Antalya, TURKEY.
-- 🌱 I’m currently learning  React and Swift.
+- 🌱 I’m currently learning Swift.
 - ⚡ Fun fact: I love cooking very much.
-- 😻 Check out the my portfolio: <a href="https://635e66e4a660823a36144dd2--superlative-frangollo-7c3171.netlify.app/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="32" height="32" /></a>
+
 
 ### Connect with me:
 <p align="left"> <a href="https://github.com/guncel-aldemir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guncelaldemir/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -14,6 +14,7 @@
 
 ### Skills
 <p align="left">
+ <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
